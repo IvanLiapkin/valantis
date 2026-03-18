@@ -2,7 +2,7 @@
   "name": "valantis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vanya1254.github.io/valantis/",
+  "homepage": "https://ivanliapkin.github.io/valantis/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
